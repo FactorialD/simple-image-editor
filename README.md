@@ -1,0 +1,1 @@
+Simple image editor for my study. Can rotate, smoth, correct image.
